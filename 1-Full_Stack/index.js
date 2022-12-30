@@ -1,5 +1,0 @@
-/**
- * Function
- * All Consent Function
- * 
- */
