@@ -11,8 +11,12 @@
  * Hidden concepts
  * - Scope
  * - Closure
- * - Function Context
+ * - Function Context OR  Context
  * - Hosting
+ */
+
+/**
+ * IFE
  */
 
 // It's A Pure Function
@@ -39,3 +43,12 @@ generateTwoRandomNumber(70, (random1, random2) => {
 generateTwoRandomNumber(200, (random1, random2) => {
   console.log(random1 + random2 - random2 + random1);
 });
+
+// IFE
+(function(){
+console.log("salman");
+})();
+// IFE
+(() => {
+    console.log("Azmi");
+})();
