@@ -10,5 +10,5 @@
  * - Async Generator
  */
 
-// Asynchronous is (31:23 Time)
+// Asynchronous is (22:44 Time)
 // JavaScript Visualizer 9000

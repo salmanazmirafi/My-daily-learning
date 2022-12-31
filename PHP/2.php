@@ -131,9 +131,9 @@ echo $x ** $y;
     
 //Swithch Statement
 <?php
-$favcolor = "red";
+$favColor = "red";
 
-switch ($favcolor) {
+switch ($favColor) {
   case "red":
     echo "Your favorite color is red!";
     break;
